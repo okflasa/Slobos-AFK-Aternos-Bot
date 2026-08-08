@@ -8,7 +8,7 @@
   "server": {
     "ip": "normalserverfrsad.aternos.me",
     "port": 30264,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
