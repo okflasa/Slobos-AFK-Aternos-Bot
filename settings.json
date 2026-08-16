@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "normalserverfrsad.aternos.me",
-    "port": 30264,
+    "ip": "144.31.46.3",
+    "port": 14378,
     "version": "1.21.11",
     "try-creative": false
   },
